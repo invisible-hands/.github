@@ -1,14 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EBAF12,50:FFF511,100:9C4200&height=200&section=header&text=Betting%20Ground&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=999999&desc=with%20Groom&descAlignY=55&descAlign=70)
 
-### Frontend
-곽현준  
-전지희  
-최진영  
+<p align="center">
 
-### Backend
+<h1>Frontend</h1>
+곽현준
+전지희
+최진영
+
+<h1>Backend</h1>
 권판준  
 정상준  
 최하록  
+</p>
 
 </br>
 
