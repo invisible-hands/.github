@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:284377,50:7e93ba,100:1b2f55&height=200&section=header&text=Betting%20Ground&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=with%20Groom&descAlignY=55&descAlign=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:284377,50:7e93ba,100:1b2f55&height=200&section=header&text=Betting%20Ground&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=ffffff&desc=with%20Goorm&descAlignY=55&descAlign=70)
 
 <p align="center">
 
