@@ -2,12 +2,19 @@
 
 # 중고거래 경매 플랫폼, 베팅그라운드
 
-기술스택 - 실드 필요
+![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=Tailwind%20CSS&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Vite-BB32FE?style=for-the-badge&logo=vite&logoColor=ffffff)
 
-![Static Badge](https://img.shields.io/badge/React-ffffff?style=for-the-badge&logo=react)
-![Static Badge](https://img.shields.io/badge/JavaScript-ffffff?style=for-the-badge&logo=javascript)
+![Static Badge](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=ffffff)
 
-
+![Static Badge](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Fingma&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
+![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)
 
 <img width="1000" alt="상단 배너 - 메인1" src="https://github.com/invisible-hands/.github/assets/47032054/bee2893f-a4d2-4d7c-b282-69667e863f46">  
 
