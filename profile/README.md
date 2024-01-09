@@ -1,6 +1,4 @@
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:284377,50:7e93ba,100:1b2f55&height=200&section=header&text=Betting%20Ground&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=ffffff)-->
-
-# 중고거래 경매 플랫폼, 베팅그라운드
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:284377,50:7e93ba,100:1b2f55&height=200&section=header&text=Betting%20Ground&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=ffffff)
 
 ![Static Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=ffffff)
@@ -15,10 +13,17 @@
 ![Static Badge](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Fingma&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=ffffff)
 ![Static Badge](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=ffffff)
+-->
 
-<img width="1000" alt="상단 배너 - 메인1" src="https://github.com/invisible-hands/.github/assets/47032054/bee2893f-a4d2-4d7c-b282-69667e863f46">  
+# 중고거래 경매 플랫폼, 베팅그라운드
 
-</br>
+<p align="center">
+  <img src="https://github.com/invisible-hands/.github/assets/47032054/8bb53f64-f4a4-427f-8de7-f788c1c55c60" alt="Tech Stack" />
+</p>
+
+<p align="center">
+  <img width="500" alt="상단 배너" src="https://github.com/invisible-hands/.github/assets/47032054/199ea749-084f-473d-aec2-c8549840716b">  
+</p>
 
 ## 🌟 기획의도
 1. 물건을 팔고 살 때마다 시세를 찾아보기 번거롭다.  
@@ -66,6 +71,7 @@
 | 알파 테스트 및 품질 보증|  2023.11.10 ~ 2023.11.22  |
 | 병합 및 테스트 배포 |  2023.11.20 ~ 2023.11.22  |
 | 문서화 및 배포 |  2023.11.23 ~ 2023.11.28  |
+| 마이그레이션 및 고도화 |  2023.12.08 ~ |
 
 </br>
 
