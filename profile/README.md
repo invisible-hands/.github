@@ -60,9 +60,9 @@
 </br>
 
 ## ⏰ 기간
-|        |  기간 |
-|:----------:|:----------:|
-|    프로젝트 기획 및 조사    |  2023.10.09 ~ 2023.10.13 |
+| 일정 | 기간 |
+|:---:|:---:|
+| 프로젝트 기획 및 조사 |  2023.10.09 ~ 2023.10.13 |
 | 카카오 자원 리서치 |  2023.10.13 ~ 2023.10.20  | 
 | 와이어프레임 및 UI |  2023.10.16 ~ 2023.10.27  |
 | API 설계 |  2023.10.16 ~ 2023.10.27  |
@@ -75,20 +75,19 @@
 
 </br>
 
+<h2>Frontend</h2>
 
-<p align="center">
+| 곽현준 | 전지희 | 최진영 |
+|:---:|:---:|:---:|
+| [<img src="https://github.com/invisible-hands/.github/assets/47032054/1859f574-d8f1-4892-93df-a0c857fcd546" height=150 width=150> <br/> @deartomefirst](https://github.com/deartomefirst) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/8aa2f17e-ce8a-4b63-b5c3-84a4691ce05d" height=150 width=150> <br/> @GHeeJeon](https://github.com/GHeeJeon) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/956aa3b0-12ec-41e2-aa1c-c115bbe71d2e" height=150 width=150> <br/> @Lazyro-choi](https://github.com/Lazyro-choi) |
 
-<h1>Frontend</h1>
-곽현준
-전지희
-최진영
+</br>
 
-<h1>Backend</h1>
-권판준  
-정상준  
-최하록
-차진우
-</p>
+<h2>Backend</h2>
+
+| 권판준 | 정상준 | 최하록 | 차진우 |
+|:---:|:---:|:---:|:---:|
+| [<img src="https://github.com/invisible-hands/.github/assets/47032054/82dfb6b1-bacb-4c54-8bc3-88639e1b7386" height=150 width=150> <br/> @Panjun-Kwon](https://github.com/Panjun-Kwon) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/6189ef8c-159c-4130-bf46-ca54b6c48982" height=150 width=150> <br/> @jsjune](https://github.com/jsjune) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/313cfd35-bda6-4ca1-8f36-b6db38c35fc7" height=150 width=150> <br/> @dorianharok](https://github.com/dorianharok) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/9d43c817-ac6b-4d61-aded-07ea8546add5" height=150 width=150> <br/> @PalaceKant](https://github.com/PalaceKant) |
 
 </br>
 
