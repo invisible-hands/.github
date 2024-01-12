@@ -85,9 +85,9 @@
 
 <h2>Backend</h2>
 
-| 권판준 | 정상준 | 최하록 | 차진우 |
+| 권판준 | 정상준 | 차진우 | 최하록 |
 |:---:|:---:|:---:|:---:|
-| [<img src="https://github.com/invisible-hands/.github/assets/47032054/82dfb6b1-bacb-4c54-8bc3-88639e1b7386" height=150 width=150> <br/> @Panjun-Kwon](https://github.com/Panjun-Kwon) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/6189ef8c-159c-4130-bf46-ca54b6c48982" height=150 width=150> <br/> @jsjune](https://github.com/jsjune) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/313cfd35-bda6-4ca1-8f36-b6db38c35fc7" height=150 width=150> <br/> @dorianharok](https://github.com/dorianharok) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/9d43c817-ac6b-4d61-aded-07ea8546add5" height=150 width=150> <br/> @PalaceKant](https://github.com/PalaceKant) |
+| [<img src="https://github.com/invisible-hands/.github/assets/47032054/82dfb6b1-bacb-4c54-8bc3-88639e1b7386" height=150 width=150> <br/> @Panjun-Kwon](https://github.com/Panjun-Kwon) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/6189ef8c-159c-4130-bf46-ca54b6c48982" height=150 width=150> <br/> @jsjune](https://github.com/jsjune) |  [<img src="https://github.com/invisible-hands/.github/assets/47032054/9d43c817-ac6b-4d61-aded-07ea8546add5" height=150 width=150> <br/> @PalaceKant](https://github.com/PalaceKant) | [<img src="https://github.com/invisible-hands/.github/assets/47032054/313cfd35-bda6-4ca1-8f36-b6db38c35fc7" height=150 width=150> <br/> @dorianharok](https://github.com/dorianharok) |
 
 </br>
 
